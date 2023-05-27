@@ -1,0 +1,41 @@
+Disha Tapadiya
+dishatapadiya02@gmail.com | +1-801-814-9344 | https://www.linkedin.com/in/disha1407/
+
+EDUCATION
+University of Utah, David Eccles School of Business, Aug 2022 - Present 
+Masters of Science, Business Analytics
+Relevant coursework: Database Theory and Design, Introduction to Business Analytics, Statistics and Predictive Analytics, Data Visualisation
+
+Medi-Caps University, Aug 2017 - June 2021
+Bachelor Of Technology, Electronics and Communication Engineering | GPA 3.4
+
+PROFESSIONAL EXPERIENCE
+Capgemini, A4 analyst, July 2021 – July 2022
+Analyzed data for all the windows and linux servers which gave us results on functioning of servers.
+Maintained the cloud servers through AWS EC2 Instance for better productivity and efficiency.
+Completed training in different technologies including Windows, Linux, Networking, SQL-DBA.
+Completed one month of ServiceNow and hands-on training in the aforementioned technologies.
+
+Intern, Gradly Incorporation, USA, June 2019 - Aug 2019
+Implemented C, C++, JavaScript, NodeJS, jQuery, FireBase and ReTool while interning with Gradly to design webpage, link login page to the database, which gave us the data of interested people.
+Performed data scraping, data tagging, data analyzing for the same. TECHNICAL SKILLS
+SQL, R, C, C++, DOMO, Python, JavaScript, NodeJS, jQuery, FireBase, ReTool
+Microsoft Excel, Microsoft Powerpoint, Microsoft Word and Google Sheets, Docs and Slides
+
+PROJECTS
+DOMO - Layton Hackathon | 3rd Position Holder (Graduate Student Division)
+November 2023 Utilized Domo to identify variables that correlate with safety incidents across all 2019-2021 Layton Construction work sites
+in order to provide KPIs and actionable insights for the management team.
+Performed ETL and further brainstormed the business objectives to understand the correlation between the safety checklist and Safety Incident Rate and Loss of Time Accident Rate. Learned a new tool and designed different charts under 48 hours.
+Presented the team’s findings to a panel of judges through the use of Domo dashboards.
+
+Database Theory and Design Project, Aug 2022 - Oct 2022 
+Designed a database for a Car Rental company.
+Focused on different parts of the whole process including booking engine, customer relationship management.
+Made it easier for the customer to have the car they desire by including the year and model of the car.
+
+CERTIFICATIONS
+DataCamp: Introduction to SQL, Introduction to R, Introduction to Tidyverse
+Coursera: Introduction to Data Analytics, Introduction to Cloud Computing, AWS Associate,
+Powershell (Basic and Advanced), Introduction to Personal Branding CodeAcademy: NodeJS, JavaScript, Basics of Java
+ 
