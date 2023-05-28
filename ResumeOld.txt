@@ -10,6 +10,12 @@ Medi-Caps University, Aug 2017 - June 2021
 Bachelor Of Technology, Electronics and Communication Engineering | GPA 3.4
 
 PROFESSIONAL EXPERIENCE
+
+Applied Health and Performance Science Department, University of Utah, Data Analytics Intern, Jan 2023 – Present
+Gather, analyze, and interpret data about approximately 10 sports using vast databases and a variety of expert statistical approaches.
+Create monthly reports for the coaches using the data collected to help them make periodization plans.
+Create the visualizations for the same reports to get insights from and make an informed decision.
+
 Capgemini, A4 analyst, July 2021 – July 2022
 Analyzed data for all the windows and linux servers which gave us results on functioning of servers.
 Maintained the cloud servers through AWS EC2 Instance for better productivity and efficiency.
@@ -33,10 +39,6 @@ Database Theory and Design Project, Aug 2022 - Oct 2022
 Designed a database for a Car Rental company.
 Focused on different parts of the whole process including booking engine, customer relationship management.
 Made it easier for the customer to have the car they desire by including the year and model of the car.
-
-ThoughtCloud Data WorkFlow - Management Intern, Oct 2022 - Nov 2022
-Designed a data model through neo4j and big data analytics for the company.
-Maintained the workflow by a data driven scrum process between both teams to avoid overlapping.
 
 CERTIFICATIONS
 DataCamp: Introduction to SQL, Introduction to R, Introduction to Tidyverse
