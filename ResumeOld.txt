@@ -34,6 +34,10 @@ Designed a database for a Car Rental company.
 Focused on different parts of the whole process including booking engine, customer relationship management.
 Made it easier for the customer to have the car they desire by including the year and model of the car.
 
+ThoughtCloud Data WorkFlow - Management Intern, Oct 2022 - Nov 2022
+Designed a data model through neo4j and big data analytics for the company.
+Maintained the workflow by a data driven scrum process between both teams to avoid overlapping.
+
 CERTIFICATIONS
 DataCamp: Introduction to SQL, Introduction to R, Introduction to Tidyverse
 Coursera: Introduction to Data Analytics, Introduction to Cloud Computing, AWS Associate,
