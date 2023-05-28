@@ -29,8 +29,13 @@ SQL, R, C, C++, DOMO, Python, JavaScript, NodeJS, jQuery, FireBase, ReTool
 Microsoft Excel, Microsoft Powerpoint, Microsoft Word and Google Sheets, Docs and Slides
 
 PROJECTS
-DOMO - Layton Hackathon | 3rd Position Holder (Graduate Student Division)
-November 2023 Utilized Domo to identify variables that correlate with safety incidents across all 2019-2021 Layton Construction work sites
+GAME DAY ANALYTICS | 1st Position Holder (Graduate Student Division), Feb 2023
+Extracted Super Bowl commercial tweets from Twitter API using Python.
+Cleaned and analyzed 4 million tweets using Alteryx and Tableau prep to provide valuable insights to advertisers, including sentiment analysis and return on investment per ad spent.
+Designed data visualizations using Power BI and Tableau to present key findings to a panel of judges and sponsors.
+
+DOMO - Layton Hackathon | 3rd Position Holder (Graduate Student Division), November 2023 
+Utilized Domo to identify variables that correlate with safety incidents across all 2019-2021 Layton Construction work sites
 in order to provide KPIs and actionable insights for the management team.
 Performed ETL and further brainstormed the business objectives to understand the correlation between the safety checklist and Safety Incident Rate and Loss of Time Accident Rate. Learned a new tool and designed different charts under 48 hours.
 Presented the team’s findings to a panel of judges through the use of Domo dashboards.
